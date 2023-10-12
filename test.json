@@ -1,10 +1,10 @@
 {
-    "url": "https://github.com/rickeyyoung/xss/blob/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/rickeyyoung/xss/main/test.yaml",
     "urls": [{
-        "url": "https://github.com/rickeyyoung/xss/blob/main/test.yaml",
+        "url": "https://raw.githubusercontent.com/rickeyyoung/xss/main/test.yaml",
         "name": "CF"
     },{
-        "url": "https://github.com/rickeyyoung/xss/blob/main/test2.yaml",
+        "url": "https://raw.githubusercontent.com/rickeyyoung/xss/main/test2.yaml",
         "name": "CF2"
     }]
 }
