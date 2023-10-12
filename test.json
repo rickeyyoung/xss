@@ -1,10 +1,10 @@
 {
-    "url": "https://xss.smarpo.com/test.yaml",
+    "url": "https://github.com/rickeyyoung/xss/blob/main/test.yaml",
     "urls": [{
-        "url": "https://xss.smarpo.com/test.yaml",
-        "name": "Foo"
+        "url": "https://github.com/rickeyyoung/xss/blob/main/test.yaml",
+        "name": "CF"
     },{
-        "url": "https://xss.smarpo.com/test2.yaml",
-        "name": "Foo2"
+        "url": "https://github.com/rickeyyoung/xss/blob/main/test.yaml",
+        "name": "CF2"
     }]
 }
